@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "ScanbotSDKNativeWrapper",
             url: "https://download.scanbot.io/sdk/native-wrapper/ios/cocoapods/scanbot-sdk-native-wrapper-pods-9.0.0.zip",
-            checksum: "5611e9985b31725b34c71156e14a85ad81e2da5558d2dd4d7092a100b6b564de"
+            checksum: "e7f9bb3d809ce451b1dfb3ca89a82d42d9ca3d45f4884e16e90456d8bac43ae8"
         ),
         .binaryTarget(
             name: "ScanbotSDK",

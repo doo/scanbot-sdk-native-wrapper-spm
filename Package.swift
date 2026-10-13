@@ -13,13 +13,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ScanbotSDKNativeWrapper",
-            url: "https://download.scanbot.io/sdk/native-wrapper/ios/xcframework/scanbot-sdk-native-wrapper-xcframework-10.0.1.zip",
-            checksum: "1b3907712e6887ee30b20c19c3b83294b6918c587ca76441fb7e88918c91d311"
+            url: "https://download.scanbot.io/sdk/native-wrapper/ios/xcframework/scanbot-sdk-native-wrapper-xcframework-10.0.2.zip",
+            checksum: "15289f79b01038a29172986a240fe411483cbb28499791b4d8984f67a0dd4682"
         ),
         .binaryTarget(
             name: "ScanbotSDK",
-            url: "https://download.scanbot.io/sdk/ios/pre/xcframeworks/RC12/scanbot-ios-sdk-xcframework-10.0.0.zip",
-            checksum: "67f4ef6d0d4392bb58b0fa7bd2dd64498866dd46c9a1ddff4e80666d1f556af1"
+            url: "https://download.scanbot.io/sdk/ios/xcframeworks/scanbot-ios-sdk-xcframework-10.0.0.zip",
+            checksum: "b959afedf2c479023549ef050157232b168d3ad10e6687f4840b4a3eb8a8fea4"
         )
     ]
 )
